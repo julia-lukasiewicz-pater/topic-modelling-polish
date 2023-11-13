@@ -1,6 +1,6 @@
-# Topic modelling using word embedddings clustering for semantic comparison of corpora
+# Topic modelling using embedddings clustering
 
-This repository constains code used for running experiments on topic modelling with word embeddings clustering approach for Polish corpora.
+This repository constains code used for running experiments on topic modelling with embeddings clustering approach for Polish corpora.
 This is my master project held on University of Warsaw in academic year 2022/2023.
 
 You can run the code in Google Colab.
